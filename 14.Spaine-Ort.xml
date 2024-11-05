@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -21,7 +18,7 @@
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/14-Spaine-Ort-1.jpg"/>
 			<div>
 				<head>Replace with your title.</head>
-				<p>Replace with your text.</p></div>
+				<p>[SPAINE.][SPain] beeing greater then [France], &amp; leſſer then [Germanie], is environed with the great [Ocean] and the [Mediterranean] ſea, except on the north-eaſt ſyde, for there it is cononeat with [France], from the which it is deuyded by by the monmaines called the [Pireates], it is now one entire monarchie but in former ryme hath bene denyded into fourtęene Kingdomes. By authors thus recounted vid. The old and new [Caſhlia], [Lean], [Arragea], [Catalonia], [Nanarre], [Aſluria], [Granada], [Valentia], [Taledo], [Galicia], [Murcia], [Cordona], [Portagal], &amp; [Algarbe].[Spaine] albeit it bee not in all places manured becauſe of the ſtonyeſſe of fundry parres thereof, yet is it far more fertil then [Africa], &amp; in very many places it yeildeth aboundantly whatſoever is neceſſary for the vſe of man, As very faire [VVheirs], [Rice], [VVyne], [Qyle], [Henry], [Saſſran], [Sugar], [Linnus], [Capers], [Cirrons], [Orenges], [Pomgranades], &amp; other fruytes. [Raſmary] groweth there in the fieldes in ſuch plenty that it ſerueth for fuel. It hath alſo great ſhore of beaſtes both wild &amp; tame, &amp; yeildeth horſes of ſuch ſwiftnes that it was ſaid of them in old tyme (as a prouerb) that they were engendred of the wynde.It hath alſo diuers mynes, as of [Gold], [Siluer], [Copper], [Tin], [Iron], and [Lead], &amp; gold is not only found in mynes, but euen in ſaud on the ſydes of the nuevr [Taye]. In fundry maritime places it yeildeth great ſhore of [Salt]. The ayre is pure and helthful, it is little ſnhieƈt vnto tempeſtes, &amp; is free from foule &amp; contagious miſtes. According to a vulgar ſaying three thinges in Spaine are for the rarety of them very memorable, to wit, A bridge ouer the which water runneth, which vſually runneth vnder bridges, enrending therebythe aquaduƈt of [Segouia]. A towneeńuyroned with fyre, meaning [Madrid], the walles whereof are of flint. And a bridge whereon ten thowſand beaſtes are continually paſtured, which is venderſtood by the riuer [Guaɖuana], which running into the earth hydeth it ſelf the length of ſeauen leagues, &amp; then coming footh againe holɖeth his courſe as before.</p></div>
 		</body>
 	</text>
 </TEI>
