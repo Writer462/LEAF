@@ -172,13 +172,94 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150558954",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T20:05:58.954Z",
+	"dcterms:modified": "2024-11-05T20:05:58.954Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Writer462",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Francisco Fernandez Rodriguez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150558954#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150558954#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://dbpedia.org/resource/German_Confederation",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/14-Spaine-Ort-1.jpg"/>
 			<div>
 				<head>[SPAINE.]</head>
-				<p><placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">[SPain]<precision match="@ref" precision="high"/></placeName> beeing greater then <placeName key="France" ref="http://dbpedia.org/resource/France">[France]</placeName>, &amp; leſſer then [Germanie], is environed with the great [Ocean] and the [Mediterranean] ſea, except on the north-eaſt ſyde, for there it is cononeat with [France], from the which it is deuyded by by the monmaines called the [Pireates], it is now one entire monarchie but in former ryme hath bene denyded into fourtęene Kingdomes. By authors thus recounted vid. The old and new [Caſhlia], [Lean], [Arragea], [Catalonia], [Nanarre], [Aſluria], [Granada], [Valentia], [Taledo], [Galicia], [Murcia], [Cordona], [Portagal], &amp; [Algarbe].[Spaine] albeit it bee not in all places manured becauſe of the ſtonyeſſe of fundry parres thereof, yet is it far more fertil then [Africa], &amp; in very many places it yeildeth aboundantly whatſoever is neceſſary for the vſe of man, As very faire [VVheirs], [Rice], [VVyne], [Qyle], [Henry], [Saſſran], [Sugar], [Linnus], [Capers], [Cirrons], [Orenges], [Pomgranades], &amp; other fruytes. [Raſmary] groweth there in the fieldes in ſuch plenty that it ſerueth for fuel. It hath alſo great ſhore of beaſtes both wild &amp; tame, &amp; yeildeth horſes of ſuch ſwiftnes that it was ſaid of them in old tyme (as a prouerb) that they were engendred of the wynde.It hath alſo diuers mynes, as of [Gold], [Siluer], [Copper], [Tin], [Iron], and [Lead], &amp; gold is not only found in mynes, but euen in ſaud on the ſydes of the nuevr [Taye]. In fundry maritime places it yeildeth great ſhore of [Salt]. The ayre is pure and helthful, it is little ſnhieƈt vnto tempeſtes, &amp; is free from foule &amp; contagious miſtes. According to a vulgar ſaying three thinges in Spaine are for the rarety of them very memorable, to wit, A bridge ouer the which water runneth, which vſually runneth vnder bridges, enrending therebythe aquaduƈt of [Segouia]. A towneeńuyroned with fyre, meaning [Madrid], the walles whereof are of flint. And a bridge whereon ten thowſand beaſtes are continually paſtured, which is venderſtood by the riuer [Guaɖuana], which running into the earth hydeth it ſelf the length of ſeauen leagues, &amp; then coming footh againe holɖeth his courſe as before.</p></div>
+				<p><placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">[SPain]<precision match="@ref" precision="high"/></placeName> beeing greater then <placeName key="France" ref="http://dbpedia.org/resource/France">[France]</placeName>, &amp; leſſer then <placeName key="German Confederation" ref="http://dbpedia.org/resource/German_Confederation" cert="high">[Germanie]<precision match="@ref" precision="high"/></placeName>, is environed with the great [Ocean] and the [Mediterranean] ſea, except on the north-eaſt ſyde, for there it is cononeat with [France], from the which it is deuyded by by the monmaines called the [Pireates], it is now one entire monarchie but in former ryme hath bene denyded into fourtęene Kingdomes. By authors thus recounted vid. The old and new [Caſhlia], [Lean], [Arragea], [Catalonia], [Nanarre], [Aſluria], [Granada], [Valentia], [Taledo], [Galicia], [Murcia], [Cordona], [Portagal], &amp; [Algarbe].[Spaine] albeit it bee not in all places manured becauſe of the ſtonyeſſe of fundry parres thereof, yet is it far more fertil then [Africa], &amp; in very many places it yeildeth aboundantly whatſoever is neceſſary for the vſe of man, As very faire [VVheirs], [Rice], [VVyne], [Qyle], [Henry], [Saſſran], [Sugar], [Linnus], [Capers], [Cirrons], [Orenges], [Pomgranades], &amp; other fruytes. [Raſmary] groweth there in the fieldes in ſuch plenty that it ſerueth for fuel. It hath alſo great ſhore of beaſtes both wild &amp; tame, &amp; yeildeth horſes of ſuch ſwiftnes that it was ſaid of them in old tyme (as a prouerb) that they were engendred of the wynde.It hath alſo diuers mynes, as of [Gold], [Siluer], [Copper], [Tin], [Iron], and [Lead], &amp; gold is not only found in mynes, but euen in ſaud on the ſydes of the nuevr [Taye]. In fundry maritime places it yeildeth great ſhore of [Salt]. The ayre is pure and helthful, it is little ſnhieƈt vnto tempeſtes, &amp; is free from foule &amp; contagious miſtes. According to a vulgar ſaying three thinges in Spaine are for the rarety of them very memorable, to wit, A bridge ouer the which water runneth, which vſually runneth vnder bridges, enrending therebythe aquaduƈt of [Segouia]. A towneeńuyroned with fyre, meaning [Madrid], the walles whereof are of flint. And a bridge whereon ten thowſand beaſtes are continually paſtured, which is venderſtood by the riuer [Guaɖuana], which running into the earth hydeth it ſelf the length of ſeauen leagues, &amp; then coming footh againe holɖeth his courſe as before.</p></div>
 		</body>
 	</text>
 </TEI>
