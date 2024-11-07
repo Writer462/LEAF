@@ -288,6 +288,7 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150802396",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:02.396Z",
+	"dcterms:modified": "2024-11-05T20:08:02.396Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -314,7 +315,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150802396#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[9]"
+			"rdf:value": "TEI/text/body/div/p/placeName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -366,6 +367,7 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150836567",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:08:36.567Z",
+	"dcterms:modified": "2024-11-05T20:08:36.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -392,7 +394,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105150836567#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[17]"
+			"rdf:value": "TEI/text/body/div/p/placeName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -446,6 +448,7 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105151554866",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:15:54.866Z",
+	"dcterms:modified": "2024-11-05T20:15:54.866Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -472,7 +475,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105151554866#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[8]"
+			"rdf:value": "TEI/text/body/div/p/placeName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -524,6 +527,7 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105151752783",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:17:52.783Z",
+	"dcterms:modified": "2024-11-05T20:17:52.783Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -550,7 +554,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105151752783#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[6]"
+			"rdf:value": "TEI/text/body/div/p/placeName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -604,7 +608,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152008589",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:20:08.589Z",
-	"dcterms:modified": "2024-11-05T20:20:08.589Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -631,7 +634,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152008589#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[5]"
+			"rdf:value": "TEI/text/body/div/p/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -685,7 +688,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152239240",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:22:39.240Z",
-	"dcterms:modified": "2024-11-05T20:22:39.240Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -712,7 +714,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152239240#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[7]"
+			"rdf:value": "TEI/text/body/div/p/placeName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -764,7 +766,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152457677",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:24:57.677Z",
-	"dcterms:modified": "2024-11-05T20:24:57.677Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -791,7 +792,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152457677#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[10]"
+			"rdf:value": "TEI/text/body/div/p/placeName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -845,7 +846,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152603874",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:26:03.874Z",
-	"dcterms:modified": "2024-11-05T20:26:03.874Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -872,7 +872,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152603874#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[11]"
+			"rdf:value": "TEI/text/body/div/p/placeName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -924,7 +924,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152809608",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:28:09.608Z",
-	"dcterms:modified": "2024-11-05T20:28:09.608Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -951,7 +950,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152809608#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[12]"
+			"rdf:value": "TEI/text/body/div/p/placeName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -1005,7 +1004,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152942939",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:29:42.939Z",
-	"dcterms:modified": "2024-11-05T20:29:42.939Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1032,7 +1030,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105152942939#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[13]"
+			"rdf:value": "TEI/text/body/div/p/placeName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -1084,7 +1082,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153021591",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:30:21.591Z",
-	"dcterms:modified": "2024-11-05T20:30:21.591Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1111,7 +1108,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153021591#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[14]"
+			"rdf:value": "TEI/text/body/div/p/placeName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -1165,7 +1162,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153041493",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:30:41.493Z",
-	"dcterms:modified": "2024-11-05T20:30:41.493Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1192,7 +1188,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153041493#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[15]"
+			"rdf:value": "TEI/text/body/div/p/placeName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -1244,7 +1240,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153511852",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:35:11.852Z",
-	"dcterms:modified": "2024-11-05T20:35:11.852Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1271,7 +1266,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153511852#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[16]"
+			"rdf:value": "TEI/text/body/div/p/placeName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -1325,7 +1320,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153603568",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:36:03.568Z",
-	"dcterms:modified": "2024-11-05T20:36:03.568Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1352,7 +1346,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153603568#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[18]"
+			"rdf:value": "TEI/text/body/div/p/placeName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -1406,6 +1400,7 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153637868",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:36:37.868Z",
+	"dcterms:modified": "2024-11-05T20:36:37.868Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1432,7 +1427,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153637868#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[20]"
+			"rdf:value": "TEI/text/body/div/p/placeName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -1511,7 +1506,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105153739644#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[22]"
+			"rdf:value": "TEI/text/body/div/p/placeName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -1565,7 +1560,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105154300933",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:43:00.933Z",
-	"dcterms:modified": "2024-11-05T20:43:00.933Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1592,7 +1586,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105154300933#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+			"rdf:value": "TEI/text/body/div/p/placeName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -1880,7 +1874,6 @@
 	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105155512469",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-11-05T20:55:12.469Z",
-	"dcterms:modified": "2024-11-05T20:55:12.469Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Writer462",
 		"@type": [
@@ -1907,7 +1900,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241105155512469#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[19]"
+			"rdf:value": "TEI/text/body/div/p/placeName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -3330,7 +3323,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241107145334205#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[23]"
+			"rdf:value": "TEI/text/body/div/p/placeName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -3411,7 +3404,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241107145431886#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/placeName[24]"
+			"rdf:value": "TEI/text/body/div/p/placeName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -3430,13 +3423,92 @@
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241107145659006",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T19:56:59.006Z",
+	"dcterms:modified": "2024-11-07T19:56:59.006Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Writer462",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Francisco Fernandez Rodriguez"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241107145659006#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Writer462/LEAF/main/14.Spaine-Ort.xml?place_annotation_20241107145659006#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q97",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/14-Spaine-Ort-1.jpg"/>
 			<div>
 				<head>SPAINE.</head>
-				<p><placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">SPaine<precision match="@ref" precision="high"/></placeName> beeing greater then <placeName key="France" ref="http://dbpedia.org/resource/France">France</placeName>, &amp; leſſer then <placeName key="German Confederation" ref="http://dbpedia.org/resource/German_Confederation" cert="high">Germanie<precision match="@ref" precision="high"/></placeName>, is enuironed with the great Ocean and the [Mediterranean] ſea, except on the north-eaſt ſyde, for there it is cononeat with <placeName key="France" ref="http://dbpedia.org/resource/France">France</placeName>, from the which it is deuyded by by the monmaines called the [Pireates], it is now one entire monarchie but in former ryme hath bene denyded into fourtęene Kingdomes. By authors thus recounted vid. The old and new <placeName key="Castile" ref="http://www.wikidata.org/entity/Q173063" cert="high">Caſhlia,<precision match="@ref" precision="high"/></placeName> <placeName key="Province of León" ref="http://dbpedia.org/resource/Province_of_León" cert="high">Leon,<precision match="@ref" precision="high"/></placeName> <placeName key="Arriaga Basque Country Spain" ref="https://geonames.org/3129418">Arragea</placeName>, <placeName key="Municipalities of Catalonia" ref="http://dbpedia.org/resource/Municipalities_of_Catalonia">Catalonia</placeName>, <placeName key="Kingdom of Navarre" ref="http://dbpedia.org/resource/Kingdom_of_Navarre">Nanarre,</placeName> <placeName key="Province of Asturias" ref="http://www.wikidata.org/entity/Q24004403" cert="high">Aſturia<precision match="@ref" precision="high"/></placeName>, <placeName key="Province of Granada" ref="http://dbpedia.org/resource/Province_of_Granada">Granada]</placeName>, <placeName key="Province of Valencia" ref="http://dbpedia.org/resource/Province_of_Valencia" cert="high">Valentia<precision match="@ref" precision="high"/></placeName>, <placeName key="Province of Toledo" ref="http://dbpedia.org/resource/Province_of_Toledo">Toledo</placeName>, <placeName key="Kingdom of Galicia" ref="http://dbpedia.org/resource/Kingdom_of_Galicia" cert="high">Galicia]<precision match="@ref" precision="high"/></placeName>, <placeName key="Region of Murcia" ref="http://dbpedia.org/resource/Region_of_Murcia">Murcia</placeName>, <placeName key="Córdoba Province" ref="http://www.wikidata.org/entity/Q81972" cert="low">Cordona<precision match="@ref" precision="low"/></placeName>, <placeName key="Portugal" ref="http://dbpedia.org/resource/Portugal" cert="high">Portagal<precision match="@ref" precision="high"/></placeName>, &amp; <placeName key="Algarve" ref="http://dbpedia.org/resource/Algarve" cert="high">Algarbe<precision match="@ref" precision="high"/></placeName>. <placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">Spaine<precision match="@ref" precision="high"/></placeName> albeit it bee not in all places manured becauſe of the ſtonyeſſe of fundry parres thereof, yet is it far more fertil then <placeName key="Africa" ref="http://dbpedia.org/resource/Africa">Africa</placeName>, &amp; in very many places it yeildeth aboundantly whatſoever is neceſſary for the vſe of man, As very faire <rs key="Wheat" ref="http://dbpedia.org/resource/Wheat">VVheat</rs>, <rs key="Rice" ref="http://dbpedia.org/resource/Rice" cert="high">Rice</rs>, <rs key="wine" ref="http://www.wikidata.org/entity/Q282" cert="medium">VVyne</rs>, <rs key="Olive oil" ref="http://dbpedia.org/resource/Olive_oil" cert="medium">Oyle</rs>, <rs key="Honey" ref="http://dbpedia.org/resource/Honey" cert="medium">Hony</rs>, <rs key="Saffron" ref="http://dbpedia.org/resource/Saffron" cert="medium">Saffran</rs>, <rs key="Sugar" ref="http://dbpedia.org/resource/Sugar">Sugar</rs>, <rs key="Lemon" ref="http://dbpedia.org/resource/Lemon" cert="medium">Limones</rs>, <rs key="Caper" ref="http://dbpedia.org/resource/Caper">Capers</rs>, <rs key="Citrus" ref="http://dbpedia.org/resource/Citrus">Citrons</rs>, <rs key="Orange (fruit)" ref="http://dbpedia.org/resource/Orange_(fruit)" cert="high">Orenges</rs>, <rs key="pomegranate" ref="http://www.wikidata.org/entity/Q13222088" cert="medium">Pomgranades</rs>, &amp; other fruytes. <rs key="Rosemary" ref="http://dbpedia.org/resource/Rosemary" cert="medium">Roſmary</rs> groweth there in the fieldes in ſuch plenty that it ſerueth for fuel. It hath alſo great ſhore of beaſtes both wild &amp; tame, &amp; yeildeth horſes of ſuch ſwiftnes that it was ſaid of them in old tyme (as a prouerb) that they were engendred of the wynde.It hath alſo diuers mynes, as of <rs key="Gold" ref="http://dbpedia.org/resource/Gold">Gold</rs>, <rs key="silver" ref="http://www.wikidata.org/entity/Q1090" cert="medium">Siluer</rs>, <rs key="Copper" ref="http://dbpedia.org/resource/Copper" cert="high">Copper</rs>, <rs key="tin" ref="http://www.wikidata.org/entity/Q1096">Tin</rs>, <rs key="Iron" ref="http://dbpedia.org/resource/Iron" cert="high">Iron</rs>, and <rs key="Lead" ref="http://dbpedia.org/resource/Lead">Lead</rs>, &amp; gold is not only found in mynes, but euen in ſaud on the ſydes of the riuevr <placeName cert="Unknown">[Taye]</placeName>. In fundry maritime places it yeildeth great ſhore of <rs key="table salt" ref="http://www.wikidata.org/entity/Q11254">Salt</rs>. The ayre is pure and helthful, it is little ſnhieƈt vnto tempeſtes, &amp; is free from foule &amp; contagious miſtes. According to a vulgar ſaying three thinges in Spaine are for the rarety of them very memorable, to wit, A bridge ouer the which water runneth, which vſually runneth vnder bridges, enrending therebythe aquaduƈt of <placeName key="Segovia" ref="http://dbpedia.org/resource/Segovia" cert="high">Segouia<precision match="@ref" precision="high"/></placeName>. A towneeńuyroned with fyre, meaning<placeName key="Madrid" ref="http://dbpedia.org/resource/Madrid" cert="medium">Madrid<precision match="@ref" precision="medium"/></placeName>, the walles whereof are of flint. And a bridge whereon ten thowſand beaſtes are continually paſtured, which is venderſtood by the riuer <placeName key="Guadiana" ref="http://dbpedia.org/resource/Guadiana" cert="high">Guaɖuana<precision match="@ref" precision="high"/></placeName>, which running into the earth hydeth it ſelf the length of ſeauen leagues, &amp; then coming footh againe holɖeth his courſe as before.</p></div>
+				<p><placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">SPaine<precision match="@ref" precision="high"/></placeName> beeing greater then <placeName key="France" ref="http://dbpedia.org/resource/France">France</placeName>, &amp; leſſer then <placeName key="German Confederation" ref="http://dbpedia.org/resource/German_Confederation" cert="high">Germanie<precision match="@ref" precision="high"/></placeName>, is enuironed with the great <placeName key="Atlantic Ocean" ref="http://www.wikidata.org/entity/Q97">Ocean</placeName> and the Mediterranean ſea, except on the north-eaſt ſyde, for there it is cononeat with <placeName key="France" ref="http://dbpedia.org/resource/France">France</placeName>, from the which it is deuyded by by the monmaines called the [Pireates], it is now one entire monarchie but in former ryme hath bene denyded into fourtęene Kingdomes. By authors thus recounted vid. The old and new <placeName key="Castile" ref="http://www.wikidata.org/entity/Q173063" cert="high">Caſhlia,<precision match="@ref" precision="high"/></placeName> <placeName key="Province of León" ref="http://dbpedia.org/resource/Province_of_León" cert="high">Leon,<precision match="@ref" precision="high"/></placeName> <placeName key="Arriaga Basque Country Spain" ref="https://geonames.org/3129418">Arragea</placeName>, <placeName key="Municipalities of Catalonia" ref="http://dbpedia.org/resource/Municipalities_of_Catalonia">Catalonia</placeName>, <placeName key="Kingdom of Navarre" ref="http://dbpedia.org/resource/Kingdom_of_Navarre">Nanarre,</placeName> <placeName key="Province of Asturias" ref="http://www.wikidata.org/entity/Q24004403" cert="high">Aſturia<precision match="@ref" precision="high"/></placeName>, <placeName key="Province of Granada" ref="http://dbpedia.org/resource/Province_of_Granada">Granada]</placeName>, <placeName key="Province of Valencia" ref="http://dbpedia.org/resource/Province_of_Valencia" cert="high">Valentia<precision match="@ref" precision="high"/></placeName>, <placeName key="Province of Toledo" ref="http://dbpedia.org/resource/Province_of_Toledo">Toledo</placeName>, <placeName key="Kingdom of Galicia" ref="http://dbpedia.org/resource/Kingdom_of_Galicia" cert="high">Galicia]<precision match="@ref" precision="high"/></placeName>, <placeName key="Region of Murcia" ref="http://dbpedia.org/resource/Region_of_Murcia">Murcia</placeName>, <placeName key="Córdoba Province" ref="http://www.wikidata.org/entity/Q81972" cert="low">Cordona<precision match="@ref" precision="low"/></placeName>, <placeName key="Portugal" ref="http://dbpedia.org/resource/Portugal" cert="high">Portagal<precision match="@ref" precision="high"/></placeName>, &amp; <placeName key="Algarve" ref="http://dbpedia.org/resource/Algarve" cert="high">Algarbe<precision match="@ref" precision="high"/></placeName>. <placeName key="Spain" ref="http://dbpedia.org/resource/Spain" cert="high">Spaine<precision match="@ref" precision="high"/></placeName> albeit it bee not in all places manured becauſe of the ſtonyeſſe of fundry parres thereof, yet is it far more fertil then <placeName key="Africa" ref="http://dbpedia.org/resource/Africa">Africa</placeName>, &amp; in very many places it yeildeth aboundantly whatſoever is neceſſary for the vſe of man, As very faire <rs key="Wheat" ref="http://dbpedia.org/resource/Wheat">VVheat</rs>, <rs key="Rice" ref="http://dbpedia.org/resource/Rice" cert="high">Rice</rs>, <rs key="wine" ref="http://www.wikidata.org/entity/Q282" cert="medium">VVyne</rs>, <rs key="Olive oil" ref="http://dbpedia.org/resource/Olive_oil" cert="medium">Oyle</rs>, <rs key="Honey" ref="http://dbpedia.org/resource/Honey" cert="medium">Hony</rs>, <rs key="Saffron" ref="http://dbpedia.org/resource/Saffron" cert="medium">Saffran</rs>, <rs key="Sugar" ref="http://dbpedia.org/resource/Sugar">Sugar</rs>, <rs key="Lemon" ref="http://dbpedia.org/resource/Lemon" cert="medium">Limones</rs>, <rs key="Caper" ref="http://dbpedia.org/resource/Caper">Capers</rs>, <rs key="Citrus" ref="http://dbpedia.org/resource/Citrus">Citrons</rs>, <rs key="Orange (fruit)" ref="http://dbpedia.org/resource/Orange_(fruit)" cert="high">Orenges</rs>, <rs key="pomegranate" ref="http://www.wikidata.org/entity/Q13222088" cert="medium">Pomgranades</rs>, &amp; other fruytes. <rs key="Rosemary" ref="http://dbpedia.org/resource/Rosemary" cert="medium">Roſmary</rs> groweth there in the fieldes in ſuch plenty that it ſerueth for fuel. It hath alſo great ſhore of beaſtes both wild &amp; tame, &amp; yeildeth horſes of ſuch ſwiftnes that it was ſaid of them in old tyme (as a prouerb) that they were engendred of the wynde.It hath alſo diuers mynes, as of <rs key="Gold" ref="http://dbpedia.org/resource/Gold">Gold</rs>, <rs key="silver" ref="http://www.wikidata.org/entity/Q1090" cert="medium">Siluer</rs>, <rs key="Copper" ref="http://dbpedia.org/resource/Copper" cert="high">Copper</rs>, <rs key="tin" ref="http://www.wikidata.org/entity/Q1096">Tin</rs>, <rs key="Iron" ref="http://dbpedia.org/resource/Iron" cert="high">Iron</rs>, and <rs key="Lead" ref="http://dbpedia.org/resource/Lead">Lead</rs>, &amp; gold is not only found in mynes, but euen in ſaud on the ſydes of the riuevr <placeName cert="Unknown">[Taye]</placeName>. In fundry maritime places it yeildeth great ſhore of <rs key="table salt" ref="http://www.wikidata.org/entity/Q11254">Salt</rs>. The ayre is pure and helthful, it is little ſnhieƈt vnto tempeſtes, &amp; is free from foule &amp; contagious miſtes. According to a vulgar ſaying three thinges in Spaine are for the rarety of them very memorable, to wit, A bridge ouer the which water runneth, which vſually runneth vnder bridges, enrending therebythe aquaduƈt of <placeName key="Segovia" ref="http://dbpedia.org/resource/Segovia" cert="high">Segouia<precision match="@ref" precision="high"/></placeName>. A towneeńuyroned with fyre, meaning<placeName key="Madrid" ref="http://dbpedia.org/resource/Madrid" cert="medium">Madrid<precision match="@ref" precision="medium"/></placeName>, the walles whereof are of flint. And a bridge whereon ten thowſand beaſtes are continually paſtured, which is venderſtood by the riuer <placeName key="Guadiana" ref="http://dbpedia.org/resource/Guadiana" cert="high">Guaɖuana<precision match="@ref" precision="high"/></placeName>, which running into the earth hydeth it ſelf the length of ſeauen leagues, &amp; then coming footh againe holɖeth his courſe as before.</p></div>
 		</body>
 	</text>
 </TEI>
